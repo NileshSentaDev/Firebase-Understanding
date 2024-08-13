@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358215462830",
+    "project_id": "fir-understanding-24aa5",
+    "storage_bucket": "fir-understanding-24aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358215462830:android:ee7992408e72d09284e23f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_understanding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL4Hqon80GJReV8l-03MW4TvOSPFIkYX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
